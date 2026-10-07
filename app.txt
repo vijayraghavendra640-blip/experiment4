@@ -1,2 +1,6 @@
 This is the original file.
+ 
 local developer added the file
+
+Local developer added this line.
+
